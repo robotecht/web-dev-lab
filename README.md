@@ -1,4 +1,7 @@
 # web-dev-lab
 Web based application development repo
 
-This is a trial repo
+## VS Studio Setup
+
+Install Open in browser extension
+![alt text](image.png)
